@@ -77,3 +77,5 @@ method.invoke(object, args);
 
 Перевірка анотацій: Можна перевірити наявність анотацій на класі, полі або методі за допомогою методів, таких як getAnnotations(), getDeclaredAnnotations() тощо.
 До прикладу, отримати анотацію поля(якщо вона там звісно є, це треба також перевірити) -- field.getAnnotation(ShowInfo.class)
+
+[reflection_diagram.pdf](https://github.com/overpathz/a-level-homeworks/files/13632953/reflection_diagram.pdf)
